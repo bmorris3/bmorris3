@@ -7,7 +7,7 @@
 * 🗣 [Workshops Coordinator](https://www.astropy.org/team.html) for [astropy](https://github.com/astropy/astropy) 
 
 ##### Read more
-* 🎓 [Curriculum Vitae](https://bmorris3.github.io/unibe/BrettMorrisCV.pdf)
+* 🎓 [Curriculum Vitae](https://bmorris3.github.io/about/BrettMorrisCV.pdf)
 * 🐦 [@brettmor](https://twitter.com/brettmor)
 * 📝 First author papers on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/0XXwPoW5Q362I-Dczvzwrg)
 * 🆔 [ORCID](https://orcid.org/0000-0003-2528-3409)
