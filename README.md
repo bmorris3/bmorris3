@@ -3,7 +3,7 @@
 ##### Roles
 * 👨🏻‍💻 Senior Software Engineer at the [Space Telescope Science Institute](https://www.stsci.edu/), supporting [JWST](https://webb.nasa.gov/) and [Roman](https://roman.gsfc.nasa.gov)
 * 🔭 Astronomer with interests in exoplanets, stellar activity, and statistical inference
-* 🗣 [Maintainer and Workshops Coordinator](https://www.astropy.org/team.html) for [astropy](https://github.com/astropy/astropy) 
+* 🗣 [Maintainer and Workshops Coordinator](https://www.astropy.org/team.html) for [@astropy](https://github.com/astropy/astropy) 
 * ⏰ Maintainer of the astropy-affiliated observation planning package [astroplan](https://github.com/astropy/astroplan)
 
 ##### Read more
