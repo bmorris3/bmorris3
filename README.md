@@ -7,8 +7,7 @@
 * ⏰ Maintainer of the astropy-affiliated observation planning package [astroplan](https://github.com/astropy/astroplan)
 
 ##### Read more
-* 🎓 [Curriculum Vitae](https://bmorris3.github.io/about/BrettMorrisCV.pdf)
-* 🐦 [@brettmor](https://twitter.com/brettmor)
-* 📝 First author papers on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/0XXwPoW5Q362I-Dczvzwrg)
-* 🆔 [ORCID](https://orcid.org/0000-0003-2528-3409)
 * 🕸 http://brettmorr.is/
+* 📝 First author papers on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/0XXwPoW5Q362I-Dczvzwrg)
+* 🎓 [Curriculum Vitae](https://bmorris3.github.io/about/BrettMorrisCV.pdf)
+* 🆔 [ORCID](https://orcid.org/0000-0003-2528-3409)
