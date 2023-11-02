@@ -14,12 +14,6 @@
 
 ##### Repos by topic
 
-General astronomy utilities
-* expecto
-* astroplan
-* arcesetc
-* tynt
-
 Stellar oscillations, granulation, and magnetic activity packages
 * fleck
 * gadfly
@@ -27,3 +21,14 @@ Stellar oscillations, granulation, and magnetic activity packages
 Exoplanet photometry
 * kelp
 * linea 
+
+General astronomy utilities
+* expecto
+* astroplan
+* arcesetc
+* tynt
+
+STScI projects
+* jdaviz
+* romancal
+* lcviz
