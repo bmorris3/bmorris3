@@ -45,8 +45,7 @@
 
 * [Sample posteriors with SVI in numpyro](https://gist.github.com/bmorris3/10a9a59352271a91873054be038aeb44)
 * [How to compute leave-one-out cross validation stats for a numpyro (jax) model with a Gaussian process from celerite2](https://gist.github.com/bmorris3/0557c13584c3fe321827eca788f37d02)
-* [Pareto smoothed importance sampling leave-one-out cross validation](https://gist.github.com/bmorris3/a69842ce9384966feba965eb0d726da6)
-  * [These slides](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation) were part of the 
+* [Pareto smoothed importance sampling leave-one-out cross validation](https://gist.github.com/bmorris3/a69842ce9384966feba965eb0d726da6) (this notebook is presented with [these slides](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation))
 * [Introduction to JAX+numpyro for physical scientists](https://github.com/bmorris3/jax-code-coffee/)
 
 #### Pedagogical Jupyter notebook tutorials with interactive features
