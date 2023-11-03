@@ -17,24 +17,25 @@
 ### Software by topic
 
 #### General astronomy utilities
-* [astroplan](https://github.com/astropy/astroplan) ([paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..128M/abstract)): Observation planning package for astronomers
-* [arcesetc](https://github.com/bmorris3/arcesetc) ([paper](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1130M/abstract)): Exposure time calculator for the ARC Echelle Spectrograph (ARCES) on the Apache Point Observatory 3.5 m Telescope
-* [aesop](https://github.com/bmorris3/aesop) ([paper](https://ui.adsabs.harvard.edu/abs/2018JOSS....3..854M/abstract)): Echelle Spectroscopic Observation Pipeline for the ARC 3.5 m Telescope at APO
+* [astroplan](https://github.com/astropy/astroplan) ([ApJ paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..128M/abstract)): Observation planning package for astronomers
+* [arcesetc](https://github.com/bmorris3/arcesetc) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1130M/abstract)): Exposure time calculator for the ARC Echelle Spectrograph (ARCES) on the Apache Point Observatory 3.5 m Telescope
+* [aesop](https://github.com/bmorris3/aesop) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2018JOSS....3..854M/abstract)): Echelle Spectroscopic Observation Pipeline for the ARC 3.5 m Telescope at APO
 * [expecto](https://github.com/bmorris3/expecto): Retrieve PHOENIX model stellar spectra via FTP
 * [tynt](https://github.com/bmorris3/tynt): Light-weight astronomical color filter curves
   
 #### Exoplanet photometry
-* [kelp](https://github.com/bmorris3/kelp) ([paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract)): Photometric phase curves of exoplanets
-* [linea](https://github.com/bmorris3/linea) ([paper](https://ui.adsabs.harvard.edu/abs/2021A%26A...651L..12M/abstract)): Linear light curve detrending for CHEOPS
-* [robin](https://github.com/bmorris3/robin) ([paper](https://ui.adsabs.harvard.edu/abs/2018AJ....156...91M/abstract)): Robust exoplanet radii from ingress/egress durations
+* [kelp](https://github.com/bmorris3/kelp) ([A&A paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract), [Nature paper](https://ui.adsabs.harvard.edu/abs/2021NatAs...5.1001H/abstract)): Photometric phase curves of exoplanets
+* [linea](https://github.com/bmorris3/linea) ([A&A paper](https://ui.adsabs.harvard.edu/abs/2021A%26A...651L..12M/abstract)): Linear light curve detrending for CHEOPS
+* [robin](https://github.com/bmorris3/robin) ([AJ paper](https://ui.adsabs.harvard.edu/abs/2018AJ....156...91M/abstract)): Robust exoplanet radii from ingress/egress durations
+* [stash](https://astrostash.readthedocs.io/en/latest/) ([MNRAS paper](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5489M/abstract)): Simulate solar transits with observations from SDO HMI
 
 #### Stellar oscillations, granulation, and magnetic activity packages
-* [fleck](https://github.com/bmorris3/fleck) ([paper](https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2103M/abstract)): Fast approximate light curves for starspot rotational modulation
+* [fleck](https://github.com/bmorris3/fleck) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2103M/abstract), [ApJ paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...893...67M/abstract)): Fast approximate light curves for starspot rotational modulation
 * [gadfly](https://github.com/bmorris3/gadfly): Simulate stellar oscillations and granulation with Gaussian processes
-* [hipparchos](https://github.com/bmorris3/hipparchus) ([paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160....5M/abstract)): Cross-correlation functions for high resolution spectroscopy
+* [hipparchos](https://github.com/bmorris3/hipparchus) ([AJ paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160....5M/abstract)): Cross-correlation functions for high resolution spectroscopy
 
 #### STScI projects w/ significant contributions
-* [jdaviz](https://github.com/spacetelescope/jdaviz): JWST astronomical data analysis tools in the Jupyter platform
+* [jdaviz](https://github.com/spacetelescope/jdaviz) ([presentation](https://speakerdeck.com/brettmorris/interactive-data-visualization-and-analysis-with-jdaviz-dot-astronomy-12-2023)): JWST astronomical data analysis tools in the Jupyter platform
 * [romancal](https://github.com/spacetelescope/romancal): Python library to process science observations from the Nancy Grace Roman Space Telescope
 * [lcviz](https://github.com/spacetelescope/lcviz): Light curve visualization and analysis tool
 
@@ -45,7 +46,7 @@
 
 * [Sample posteriors with SVI in numpyro](https://gist.github.com/bmorris3/10a9a59352271a91873054be038aeb44)
 * [How to compute leave-one-out cross validation stats for a numpyro (jax) model with a Gaussian process from celerite2](https://gist.github.com/bmorris3/0557c13584c3fe321827eca788f37d02)
-* [Pareto smoothed importance sampling leave-one-out cross validation](https://gist.github.com/bmorris3/a69842ce9384966feba965eb0d726da6) (this notebook is presented with [these slides](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation))
+* [Pareto smoothed importance sampling leave-one-out cross validation](https://gist.github.com/bmorris3/a69842ce9384966feba965eb0d726da6) ([presentation](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation))
 * [Introduction to JAX+numpyro for physical scientists](https://github.com/bmorris3/jax-code-coffee/)
 
 #### Pedagogical Jupyter notebook tutorials with interactive features
