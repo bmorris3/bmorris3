@@ -14,7 +14,8 @@
 
 *** 
 
-### Published repos by topic
+### Software by topic
+
 #### General astronomy utilities
 * [astroplan](https://github.com/astropy/astroplan) ([paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..128M/abstract)): Observation planning package for astronomers
 * [arcesetc](https://github.com/bmorris3/arcesetc) ([paper](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1130M/abstract)): Exposure time calculator for the ARC Echelle Spectrograph (ARCES) on the Apache Point Observatory 3.5 m Telescope
