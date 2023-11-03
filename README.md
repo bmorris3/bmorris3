@@ -30,7 +30,7 @@
 * [stash](https://astrostash.readthedocs.io/en/latest/) ([MNRAS paper](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5489M/abstract)): Simulate solar transits with observations from SDO HMI
 
 #### Stellar oscillations, granulation, and magnetic activity packages
-* [fleck](https://github.com/bmorris3/fleck) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2103M/abstract), [ApJ paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...893...67M/abstract)): Fast approximate light curves for starspot rotational modulation
+* [fleck](https://github.com/bmorris3/fleck) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2103M/abstract), [ApJ paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...893...67M/abstract), [presentation](https://speakerdeck.com/brettmorris/fading-memories-of-magnetic-youths-we-heraeus-seminar-2023)): Fast approximate light curves for starspot rotational modulation
 * [gadfly](https://github.com/bmorris3/gadfly): Simulate stellar oscillations and granulation with Gaussian processes
 * [hipparchos](https://github.com/bmorris3/hipparchus) ([AJ paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160....5M/abstract)): Cross-correlation functions for high resolution spectroscopy
 
@@ -39,6 +39,8 @@
 * [romancal](https://github.com/spacetelescope/romancal): Python library to process science observations from the Nancy Grace Roman Space Telescope
 * [lcviz](https://github.com/spacetelescope/lcviz): Light curve visualization and analysis tool
 
+#### Other
+* [shampoo](https://github.com/bmorris3/shampoo) ([presentation](https://speakerdeck.com/brettmorris/shampoo-for-shamu-digital-holographic-microscopy-for-astrobiology)): Digital holographic microscopy pipeline for astrobiology and beyond
 
 ### Stats tutorials
 
