@@ -24,7 +24,7 @@
 * [tynt](https://github.com/bmorris3/tynt): Light-weight astronomical color filter curves
   
 #### Exoplanet photometry
-* [kelp](https://github.com/bmorris3/kelp) ([A&A paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract), [Nature paper](https://ui.adsabs.harvard.edu/abs/2021NatAs...5.1001H/abstract)): Photometric phase curves of exoplanets
+* [kelp](https://github.com/bmorris3/kelp) ([Nature Astronomy paper](https://ui.adsabs.harvard.edu/abs/2021NatAs...5.1001H/abstract), [A&A paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract)): Photometric phase curves of exoplanets
 * [linea](https://github.com/bmorris3/linea) ([A&A paper](https://ui.adsabs.harvard.edu/abs/2021A%26A...651L..12M/abstract)): Linear light curve detrending for CHEOPS
 * [robin](https://github.com/bmorris3/robin) ([AJ paper](https://ui.adsabs.harvard.edu/abs/2018AJ....156...91M/abstract)): Robust exoplanet radii from ingress/egress durations
 * [stash](https://astrostash.readthedocs.io/en/latest/) ([MNRAS paper](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5489M/abstract)): Simulate solar transits with observations from SDO HMI
