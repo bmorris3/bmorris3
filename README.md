@@ -44,14 +44,10 @@
 #### Jupyter notebook tutorials
 
 * [Sample posteriors with SVI in numpyro](https://gist.github.com/bmorris3/10a9a59352271a91873054be038aeb44)
-  * In this example, we have an observed stellar spectrum that we would like to fit as a mixture of models for one cool and one hot stellar spectrum. We have two PHOENIX model stellar spectra which bracket the solar effective temperature, and a publicly available "observed" solar spectrum.
 * [How to compute leave-one-out cross validation stats for a numpyro (jax) model with a Gaussian process from celerite2](https://gist.github.com/bmorris3/0557c13584c3fe321827eca788f37d02)
-  * Based on the Leave-One-Out [article in the stan docs](https://mc-stan.org/loo/articles/loo2-non-factorizable.html)
 * [Pareto smoothed importance sampling leave-one-out cross validation](https://gist.github.com/bmorris3/a69842ce9384966feba965eb0d726da6)
-  * In this tutorial, we will construct a linear model with numpyro and carry out Pareto-Smoothed importance sampling Leave-One-Out Cross Validation on the results.
-  * [These slides](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation) were part of the presentation of this notebook
+  * [These slides](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation) were part of the 
 * [Introduction to JAX+numpyro for physical scientists](https://github.com/bmorris3/jax-code-coffee/)
-  * How (and why!) to get started with JAX and numpyro
 
 #### Pedagogical Jupyter notebook tutorials with interactive features
 
