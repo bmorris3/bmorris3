@@ -18,10 +18,10 @@
 
 #### General astronomy utilities
 * [astroplan](https://github.com/astropy/astroplan) ([ApJ paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..128M/abstract)): Observation planning package for astronomers
+* [tynt](https://github.com/bmorris3/tynt): Light-weight astronomical color filter curves
+* [expecto](https://github.com/bmorris3/expecto): Retrieve PHOENIX model stellar spectra via FTP
 * [arcesetc](https://github.com/bmorris3/arcesetc) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1130M/abstract)): Exposure time calculator for the ARC Echelle Spectrograph (ARCES) on the Apache Point Observatory 3.5 m Telescope
 * [aesop](https://github.com/bmorris3/aesop) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2018JOSS....3..854M/abstract)): Echelle Spectroscopic Observation Pipeline for the ARC 3.5 m Telescope at APO
-* [expecto](https://github.com/bmorris3/expecto): Retrieve PHOENIX model stellar spectra via FTP
-* [tynt](https://github.com/bmorris3/tynt): Light-weight astronomical color filter curves
   
 #### Exoplanet photometry
 * [kelp](https://github.com/bmorris3/kelp) ([Nature Astronomy paper](https://ui.adsabs.harvard.edu/abs/2021NatAs...5.1001H/abstract), [A&A paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract)): Photometric phase curves of exoplanets
@@ -46,10 +46,10 @@
 
 #### Jupyter notebook tutorials
 
-* [Sample posteriors with SVI in numpyro](https://gist.github.com/bmorris3/10a9a59352271a91873054be038aeb44)
-* [How to compute leave-one-out cross validation stats for a numpyro (jax) model with a Gaussian process from celerite2](https://gist.github.com/bmorris3/0557c13584c3fe321827eca788f37d02)
-* [Pareto smoothed importance sampling leave-one-out cross validation](https://gist.github.com/bmorris3/a69842ce9384966feba965eb0d726da6) ([presentation](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation))
 * [Introduction to JAX+numpyro for physical scientists](https://github.com/bmorris3/jax-code-coffee/)
+* [Pareto smoothed importance sampling leave-one-out cross validation](https://gist.github.com/bmorris3/a69842ce9384966feba965eb0d726da6) ([presentation](https://speakerdeck.com/brettmorris/a-practical-introduction-to-leave-one-out-cross-validation))
+* [How to compute leave-one-out cross validation stats for a numpyro (jax) model with a Gaussian process from celerite2](https://gist.github.com/bmorris3/0557c13584c3fe321827eca788f37d02)
+* [Sample posteriors with SVI in numpyro](https://gist.github.com/bmorris3/10a9a59352271a91873054be038aeb44)
 
 #### Pedagogical Jupyter notebook tutorials with interactive features
 
