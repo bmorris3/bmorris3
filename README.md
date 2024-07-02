@@ -24,7 +24,7 @@
 * [aesop](https://github.com/bmorris3/aesop) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2018JOSS....3..854M/abstract)): Echelle Spectroscopic Observation Pipeline for the ARC 3.5 m Telescope at APO
   
 #### Exoplanet photometry
-* [kelp](https://github.com/bmorris3/kelp) ([Nature Astronomy paper](https://ui.adsabs.harvard.edu/abs/2021NatAs...5.1001H/abstract), [A&A paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract)): Photometric phase curves of exoplanets
+* [kelp](https://github.com/bmorris3/kelp) ([Nature Astronomy paper](https://ui.adsabs.harvard.edu/abs/2021NatAs...5.1001H/abstract), [A&A paper I](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract), [A&A paper II](https://ui.adsabs.harvard.edu/abs/2024A&A...685A.104M/abstract)): Photometric phase curves of exoplanets
 * [linea](https://github.com/bmorris3/linea) ([A&A paper](https://ui.adsabs.harvard.edu/abs/2021A%26A...651L..12M/abstract)): Linear light curve detrending for CHEOPS
 * [robin](https://github.com/bmorris3/robin) ([AJ paper](https://ui.adsabs.harvard.edu/abs/2018AJ....156...91M/abstract)): Robust exoplanet radii from ingress/egress durations
 * [stash](https://astrostash.readthedocs.io/en/latest/) ([MNRAS paper](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5489M/abstract), [presentation](https://speakerdeck.com/brettmorris/the-stellar-variability-noise-floor)): Simulate solar transits with observations from SDO HMI
