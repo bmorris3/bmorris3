@@ -42,6 +42,7 @@
 
 #### Other
 * [shampoo](https://github.com/bmorris3/shampoo) ([presentation](https://speakerdeck.com/brettmorris/shampoo-for-shamu-digital-holographic-microscopy-for-astrobiology)): Digital holographic microscopy pipeline for astrobiology and beyond
+* [smitty](https://github.com/bmorris3/smitty): make LaTeX tables from posterior samples
 
 ### Stats tutorials
 
