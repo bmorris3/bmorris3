@@ -22,7 +22,8 @@
 * [expecto](https://github.com/bmorris3/expecto): Retrieve PHOENIX model stellar spectra via FTP
 * [arcesetc](https://github.com/bmorris3/arcesetc) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1130M/abstract)): Exposure time calculator for the ARC Echelle Spectrograph (ARCES) on the Apache Point Observatory 3.5 m Telescope
 * [aesop](https://github.com/bmorris3/aesop) ([JOSS paper](https://ui.adsabs.harvard.edu/abs/2018JOSS....3..854M/abstract)): Echelle Spectroscopic Observation Pipeline for the ARC 3.5 m Telescope at APO
-  
+* [stellarcmap](https://github.com/bmorris3/stellarcmap): a matplotlib colormap for perceived colors from Gaia BP-RP
+
 #### Exoplanet photometry
 * [kelp](https://github.com/bmorris3/kelp) ([Nature Astronomy paper](https://ui.adsabs.harvard.edu/abs/2021NatAs...5.1001H/abstract), [A&A paper I](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A.123M/abstract), [A&A paper II](https://ui.adsabs.harvard.edu/abs/2024A&A...685A.104M/abstract)): Photometric phase curves of exoplanets
 * [linea](https://github.com/bmorris3/linea) ([A&A paper](https://ui.adsabs.harvard.edu/abs/2021A%26A...651L..12M/abstract)): Linear light curve detrending for CHEOPS
