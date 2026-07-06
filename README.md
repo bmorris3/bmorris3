@@ -1,10 +1,9 @@
 ### Hi there, I'm Brett 👋
 
 #### Roles
-* 👨🏻‍💻 Senior Software Engineer at the [Space Telescope Science Institute](https://www.stsci.edu/), supporting [JWST](https://webb.nasa.gov/) and [Roman](https://roman.gsfc.nasa.gov)
+* 👨🏻‍💻 Senior Astronomical Data Scientist at the [Space Telescope Science Institute](https://www.stsci.edu/), supporting [JWST](https://webb.nasa.gov/) and [Roman](https://roman.gsfc.nasa.gov)
 * 🔭 Astronomer with interests in exoplanets, stellar activity, and statistical inference
 * 🪐 [Maintainer, Contributor, and Workshops Coordinator](https://www.astropy.org/team.html) for [astropy](https://github.com/astropy/astropy)
-* ⏰ Maintainer of the [astropy-affiliated package](https://www.astropy.org/affiliated/) for observation planning [astroplan](https://github.com/astropy/astroplan)
 
 #### Read more
 * 🕸 http://brettmorr.is/
